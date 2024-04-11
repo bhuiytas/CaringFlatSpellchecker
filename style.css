@@ -1,0 +1,69 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #e3e3e3
+}
+
+.topnav_one {
+  display: flex;
+ justify-content: space-evenly; 
+  border: 5px solid #000000;
+  padding: 3%;
+  background-color: #fda5a5;
+  font-size: 30px;
+  font-family: Garamond;
+}
+.topnav_one:hover {
+  background-color: #ca6363;
+}
+.topnav_two {
+  display: flex;
+ justify-content: space-evenly; 
+  border: 5px dashed #000000;
+  padding: 3%;
+  background-color: #a8c7ff;
+  font-size: 30px;
+  font-family: Papyrus;
+}
+.topnav_two:hover {
+  background-color: #d0afee;
+}
+.topnav_three {
+  display: flex;
+ justify-content: space-evenly; 
+  border: 5px double black;
+  padding: 3%;
+  background-color: #bff58a;
+  font-size: 30px;
+  font-family: Courier New;
+}
+.topnav_three:hover {
+  background-color: #c7dda2;
+}
+
+.Home {
+  background-color: salmon;
+}
+.Home:hover {
+  background-color: #ff0000;
+}
+.News {
+  background-color: #c7c7ff;
+}
+.News:hover {
+  background-color: #1e00ff;
+}
+.Contact {
+  background-color: #f5f5a3;
+}
+.Contact:hover {
+  background-color: yellow;
+}
+.About {
+  background-color: #a3f5a3;
+}
+.About:hover {
+  background-color: #00ff1e;
+}
